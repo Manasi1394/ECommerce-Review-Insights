@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 import csv
 import matplotlib.pyplot as plt
 import getpass
@@ -761,15 +755,6 @@ def main():
         user_password()
     
 main()
-
-
-# In[2]:
-
-
-
-
-
-# In[ ]:
 
 
 
